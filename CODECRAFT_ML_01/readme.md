@@ -55,6 +55,10 @@ To predict the **median house price** of a district based on features such as `m
 
 ### 4️⃣ Model Evaluation
 Metrics used:
+## Results
+- Model Used: Logistic Regression
+- Accuracy: 87.45%
+
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - R² Score
@@ -78,3 +82,4 @@ Metrics used:
 **Umang Kaklotar**  
 B.Tech Computer Engineering  
 Internship Submission — Machine Learning Track
+
